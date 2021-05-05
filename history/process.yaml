@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE06ISSM-RID16-07-NUTNRB000-telemetered-nutnr_b_dcl_dark_conc_instrument
+data_stream: CE06ISSM-RID16-07-NUTNRB000-telemetered-nutnr_b_dcl_dark_conc_instrument
+end_date: '2016-02-22T00:30:24.098Z'
+last_updated: '2021-05-05T02:38:42.012844Z'
+start_date: '2014-10-07T19:45:00.000Z'
+status: pending
